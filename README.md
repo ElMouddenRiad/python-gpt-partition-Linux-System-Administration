@@ -1,6 +1,6 @@
 # Linux System Administration Portfolio
 
-Ce dépôt regroupe des scripts Python réalisés dans le cadre d'un module d'Administration Système Linux et de répartition.
+réalisé en 2024, ce dépôt regroupe des scripts Python réalisés dans le cadre d'un module d'Administration Système Linux et de répartition.
 
 L'objectif de cette version est de présenter un projet propre, lisible et partageable sur GitHub, avec un niveau de documentation utile pour une candidature ou un portfolio technique.
 
